@@ -1,0 +1,16 @@
+{  
+"country": "us",
+"language": "en",
+"siteIdentifier": "cidi",
+"domain": "adobe",
+"environment": "dev",
+"pageId": "sandbox",
+"pageNotFound": false,
+"reportSuiteIds": ["vanguarddev01"],
+"section": "",
+"subSection": "",
+"dfaEnabled": false,
+"dfaSPOTID": "4402023",
+"dfaMaxDelay": "750",
+"crewFlag": ""
+}
